@@ -1,2 +1,2 @@
 # ibilola_ige_bug-hunters
-A demo on how to create repository with a name associated with the project, how to manage the content and link my github to slack
+Demoing how to cerate a repository and manage the content from your command prompt as well as linking your github account  to your slack task-review channel
